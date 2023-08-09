@@ -1,5 +1,4 @@
-## s-choory 
-### Web-developer
+## HI! s-choory 
 
 <!--
 **s-choory/s-choory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
