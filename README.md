@@ -1,8 +1,8 @@
-## Hi! s-choory ❤️
+## Hi! s-choory
 Web develop Student 
 
 <!--
-**s-choory/s-choory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**s-choory/s-choory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.https://github.com/s-choory/s-choory/blob/main/README.md
 
 Here are some ideas to get you started:
 
