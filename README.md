@@ -1,6 +1,13 @@
 ## Hi! s-choory
-Web develop Student 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/s-choory"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **s-choory/s-choory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.https://github.com/s-choory/s-choory/blob/main/README.md
 
