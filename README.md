@@ -1,11 +1,11 @@
 ## Hi! s-choory
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/s-choory"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/s-choory"
+  width="600"
+  height="300"
+/>
 </a>
   
 <!--
